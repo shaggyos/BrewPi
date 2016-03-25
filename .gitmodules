@@ -1,0 +1,42 @@
+[submodule "brewpi-script"]
+	path = brewpi-script
+	url = https://github.com/BrewPi/brewpi-script
+[submodule "brewpi-tools"]
+	path = brewpi-tools
+	url = https://github.com/BrewPi/brewpi-tools
+[submodule "brewpi-www"]
+	path = brewpi-www
+	url = https://github.com/BrewPi/brewpi-www
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/BrewPi/firmware
+[submodule "connector"]
+	path = connector
+	url = https://github.com/BrewPi/connector
+[submodule "nice-firm"]
+	path = nice-firm
+	url = https://github.com/BrewPi/nice-firm
+[submodule "brewpi-userdocs"]
+	path = brewpi-userdocs
+	url = https://github.com/BrewPi/brewpi-userdocs
+[submodule "brewpi-avr"]
+	path = brewpi-avr
+	url = https://github.com/BrewPi/brewpi-avr
+[submodule "herms-layout"]
+	path = herms-layout
+	url = https://github.com/BrewPi/herms-layout
+[submodule "dygraphs"]
+	path = dygraphs
+	url = https://github.com/BrewPi/dygraphs
+[submodule "brewpi-developerdocs"]
+	path = brewpi-developerdocs
+	url = https://github.com/BrewPi/brewpi-developerdocs
+[submodule "ssr-onewire-board"]
+	path = ssr-onewire-board
+	url = https://github.com/BrewPi/ssr-onewire-board
+[submodule "brewpi_webservice"]
+	path = brewpi_webservice
+	url = https://github.com/BrewPi/brewpi_webservice
+[submodule "spark-firmware"]
+	path = spark-firmware
+	url = https://github.com/BrewPi/spark-firmware
